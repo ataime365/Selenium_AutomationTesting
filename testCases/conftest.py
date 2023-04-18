@@ -10,7 +10,7 @@ def setup(browser):
     elif browser=='firefox':
         driver = webdriver.Firefox()
         print("Launching Firefox browser")
-    else:
+    elif browser=='edge':
         # webdriver.e
         driver = webdriver.Edge() #Microsoft Edge Internet explorer as default browser
     return driver

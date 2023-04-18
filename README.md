@@ -12,3 +12,9 @@ The requirements.txt file contains all python libraries used in this project
 
 &nbsp;
 
+# Test Cases
+
+1. Login Feature
+2. Testing Loging with multiple data inputs (DDT : Excel File)
+3. 
+
