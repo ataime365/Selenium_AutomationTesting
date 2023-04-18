@@ -2,4 +2,4 @@
 .pytest_*
 __pycache*
 venv/
-*.exe
+# *.exe
