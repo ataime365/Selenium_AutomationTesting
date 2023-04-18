@@ -1,0 +1,5 @@
+.idea
+.pytest_*
+__pycache*
+venv/
+*.exe
