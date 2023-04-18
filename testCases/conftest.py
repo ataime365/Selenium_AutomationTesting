@@ -11,8 +11,8 @@ def setup(browser):
         driver = webdriver.Firefox()
         print("Launching Firefox browser")
     elif browser=='edge':
-        # webdriver.e
         driver = webdriver.Edge() #Microsoft Edge Internet explorer as default browser
+        print("Launching Edge browser")
     return driver
 
 def pytest_addoption(parser):  # This will get the value from CLI / hooks

@@ -1690,3 +1690,483 @@
 04/18/2023 21:12:58 - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
 04/18/2023 21:12:58 - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
 04/18/2023 21:12:58 - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+04/18/2023 22:57:39 - INFO - ************* SearchCustomerByEmail_004 **********
+04/18/2023 22:57:39 - INFO - ************* SearchCustomerByEmail_004 **********
+04/18/2023 22:57:39 - INFO - ************* SearchCustomerByEmail_004 **********
+04/18/2023 22:57:39 - INFO - ************* SearchCustomerByEmail_004 **********
+04/18/2023 22:57:39 - INFO - ************* SearchCustomerByEmail_004 **********
+04/18/2023 22:57:40 - INFO - ************** Verifying Login test ********************
+04/18/2023 22:57:40 - INFO - ************** Verifying Login test ********************
+04/18/2023 22:57:40 - INFO - ************** Verifying Login test ********************
+04/18/2023 22:57:40 - INFO - ************** Verifying Login test ********************
+04/18/2023 22:57:40 - INFO - ************** Verifying Login test ********************
+04/18/2023 22:57:40 - INFO - ************** Test_003_AddCustomer ********************
+04/18/2023 22:57:40 - INFO - ************** Test_003_AddCustomer ********************
+04/18/2023 22:57:40 - INFO - ************** Test_003_AddCustomer ********************
+04/18/2023 22:57:40 - INFO - ************** Test_003_AddCustomer ********************
+04/18/2023 22:57:40 - INFO - ************** Test_003_AddCustomer ********************
+04/18/2023 22:57:48 - INFO - *************** Login successful ***********
+04/18/2023 22:57:48 - INFO - *************** Login successful ***********
+04/18/2023 22:57:48 - INFO - *************** Login successful ***********
+04/18/2023 22:57:48 - INFO - *************** Login successful ***********
+04/18/2023 22:57:48 - INFO - *************** Login successful ***********
+04/18/2023 22:57:48 - INFO - ****** Starting Add Customer Test ****************
+04/18/2023 22:57:48 - INFO - ****** Starting Add Customer Test ****************
+04/18/2023 22:57:48 - INFO - ****** Starting Add Customer Test ****************
+04/18/2023 22:57:48 - INFO - ****** Starting Add Customer Test ****************
+04/18/2023 22:57:48 - INFO - ****** Starting Add Customer Test ****************
+04/18/2023 22:57:49 - INFO - ************** Login test is passed ********************
+04/18/2023 22:57:49 - INFO - ************** Login test is passed ********************
+04/18/2023 22:57:49 - INFO - ************** Login test is passed ********************
+04/18/2023 22:57:49 - INFO - ************** Login test is passed ********************
+04/18/2023 22:57:49 - INFO - ************** Login test is passed ********************
+04/18/2023 22:57:51 - INFO - ********* Test_002_DDT_Login ***************
+04/18/2023 22:57:51 - INFO - ********* Test_002_DDT_Login ***************
+04/18/2023 22:57:51 - INFO - ********* Test_002_DDT_Login ***************
+04/18/2023 22:57:51 - INFO - ********* Test_002_DDT_Login ***************
+04/18/2023 22:57:51 - INFO - ********* Test_002_DDT_Login ***************
+04/18/2023 22:57:51 - INFO - ************** Verifying Login DDT test ********************
+04/18/2023 22:57:51 - INFO - ************** Verifying Login DDT test ********************
+04/18/2023 22:57:51 - INFO - ************** Verifying Login DDT test ********************
+04/18/2023 22:57:51 - INFO - ************** Verifying Login DDT test ********************
+04/18/2023 22:57:51 - INFO - ************** Verifying Login DDT test ********************
+04/18/2023 22:57:52 - INFO - ************* Login succesful **********
+04/18/2023 22:57:52 - INFO - ************* Login succesful **********
+04/18/2023 22:57:52 - INFO - ************* Login succesful **********
+04/18/2023 22:57:52 - INFO - ************* Login succesful **********
+04/18/2023 22:57:52 - INFO - ************* Login succesful **********
+04/18/2023 22:57:52 - INFO - ******* Starting Search Customer By Email **********
+04/18/2023 22:57:52 - INFO - ******* Starting Search Customer By Email **********
+04/18/2023 22:57:52 - INFO - ******* Starting Search Customer By Email **********
+04/18/2023 22:57:52 - INFO - ******* Starting Search Customer By Email **********
+04/18/2023 22:57:52 - INFO - ******* Starting Search Customer By Email **********
+04/18/2023 22:57:57 - INFO - ************** Providing customer info **********
+04/18/2023 22:57:57 - INFO - ************** Providing customer info **********
+04/18/2023 22:57:57 - INFO - ************** Providing customer info **********
+04/18/2023 22:57:57 - INFO - ************** Providing customer info **********
+04/18/2023 22:57:57 - INFO - ************** Providing customer info **********
+04/18/2023 22:57:58 - INFO - ************* searching customer by emailID **********
+04/18/2023 22:57:58 - INFO - ************* searching customer by emailID **********
+04/18/2023 22:57:58 - INFO - ************* searching customer by emailID **********
+04/18/2023 22:57:58 - INFO - ************* searching customer by emailID **********
+04/18/2023 22:57:58 - INFO - ************* searching customer by emailID **********
+04/18/2023 22:58:03 - INFO - *** Passed ***
+04/18/2023 22:58:03 - INFO - *** Passed ***
+04/18/2023 22:58:03 - INFO - *** Passed ***
+04/18/2023 22:58:03 - INFO - *** Passed ***
+04/18/2023 22:58:03 - INFO - *** Passed ***
+04/18/2023 22:58:03 - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+04/18/2023 22:58:03 - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+04/18/2023 22:58:03 - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+04/18/2023 22:58:03 - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+04/18/2023 22:58:03 - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+04/18/2023 22:58:05 - INFO - ************* SearchCustomerByName_005 **********
+04/18/2023 22:58:05 - INFO - ************* SearchCustomerByName_005 **********
+04/18/2023 22:58:05 - INFO - ************* SearchCustomerByName_005 **********
+04/18/2023 22:58:05 - INFO - ************* SearchCustomerByName_005 **********
+04/18/2023 22:58:05 - INFO - ************* SearchCustomerByName_005 **********
+04/18/2023 22:58:11 - INFO - *** passed ***
+04/18/2023 22:58:11 - INFO - *** passed ***
+04/18/2023 22:58:11 - INFO - *** passed ***
+04/18/2023 22:58:11 - INFO - *** passed ***
+04/18/2023 22:58:11 - INFO - *** passed ***
+04/18/2023 22:58:13 - INFO - ************ Saving customer info ************
+04/18/2023 22:58:13 - INFO - ************ Saving customer info ************
+04/18/2023 22:58:13 - INFO - ************ Saving customer info ************
+04/18/2023 22:58:13 - INFO - ************ Saving customer info ************
+04/18/2023 22:58:13 - INFO - ************ Saving customer info ************
+04/18/2023 22:58:13 - INFO - ************ Add customer validation started ************
+04/18/2023 22:58:13 - INFO - ************ Add customer validation started ************
+04/18/2023 22:58:13 - INFO - ************ Add customer validation started ************
+04/18/2023 22:58:13 - INFO - ************ Add customer validation started ************
+04/18/2023 22:58:13 - INFO - ************ Add customer validation started ************
+04/18/2023 22:58:13 - INFO - ********* Add customer Test passed *********
+04/18/2023 22:58:13 - INFO - ********* Add customer Test passed *********
+04/18/2023 22:58:13 - INFO - ********* Add customer Test passed *********
+04/18/2023 22:58:13 - INFO - ********* Add customer Test passed *********
+04/18/2023 22:58:13 - INFO - ********* Add customer Test passed *********
+04/18/2023 22:58:13 - INFO - ******** Ending Test_003_AddCustomer Test *********
+04/18/2023 22:58:13 - INFO - ******** Ending Test_003_AddCustomer Test *********
+04/18/2023 22:58:13 - INFO - ******** Ending Test_003_AddCustomer Test *********
+04/18/2023 22:58:13 - INFO - ******** Ending Test_003_AddCustomer Test *********
+04/18/2023 22:58:13 - INFO - ******** Ending Test_003_AddCustomer Test *********
+04/18/2023 22:58:14 - INFO - ************** Test_001_Login ********************
+04/18/2023 22:58:14 - INFO - ************** Test_001_Login ********************
+04/18/2023 22:58:14 - INFO - ************** Test_001_Login ********************
+04/18/2023 22:58:14 - INFO - ************** Test_001_Login ********************
+04/18/2023 22:58:14 - INFO - ************** Test_001_Login ********************
+04/18/2023 22:58:14 - INFO - ************** Verifying Home Page Title ********************
+04/18/2023 22:58:14 - INFO - ************** Verifying Home Page Title ********************
+04/18/2023 22:58:14 - INFO - ************** Verifying Home Page Title ********************
+04/18/2023 22:58:14 - INFO - ************** Verifying Home Page Title ********************
+04/18/2023 22:58:14 - INFO - ************** Verifying Home Page Title ********************
+04/18/2023 22:58:17 - INFO - *** passed ***
+04/18/2023 22:58:17 - INFO - *** passed ***
+04/18/2023 22:58:17 - INFO - *** passed ***
+04/18/2023 22:58:17 - INFO - *** passed ***
+04/18/2023 22:58:17 - INFO - *** passed ***
+04/18/2023 22:58:20 - INFO - ************** Home page title test is passed ********************
+04/18/2023 22:58:20 - INFO - ************** Home page title test is passed ********************
+04/18/2023 22:58:20 - INFO - ************** Home page title test is passed ********************
+04/18/2023 22:58:20 - INFO - ************** Home page title test is passed ********************
+04/18/2023 22:58:20 - INFO - ************** Home page title test is passed ********************
+04/18/2023 22:58:24 - INFO - *** passed ***
+04/18/2023 22:58:24 - INFO - *** passed ***
+04/18/2023 22:58:24 - INFO - *** passed ***
+04/18/2023 22:58:24 - INFO - *** passed ***
+04/18/2023 22:58:24 - INFO - *** passed ***
+04/18/2023 22:58:24 - INFO - ******* Login DDT test passed ****
+04/18/2023 22:58:24 - INFO - ******* Login DDT test passed ****
+04/18/2023 22:58:24 - INFO - ******* Login DDT test passed ****
+04/18/2023 22:58:24 - INFO - ******* Login DDT test passed ****
+04/18/2023 22:58:24 - INFO - ******* Login DDT test passed ****
+04/18/2023 22:58:24 - INFO - ******* End of Login DDT Test **********
+04/18/2023 22:58:24 - INFO - ******* End of Login DDT Test **********
+04/18/2023 22:58:24 - INFO - ******* End of Login DDT Test **********
+04/18/2023 22:58:24 - INFO - ******* End of Login DDT Test **********
+04/18/2023 22:58:24 - INFO - ******* End of Login DDT Test **********
+04/18/2023 22:58:24 - INFO - ******* Completed TC_LoginDDT_002 **********
+04/18/2023 22:58:24 - INFO - ******* Completed TC_LoginDDT_002 **********
+04/18/2023 22:58:24 - INFO - ******* Completed TC_LoginDDT_002 **********
+04/18/2023 22:58:24 - INFO - ******* Completed TC_LoginDDT_002 **********
+04/18/2023 22:58:24 - INFO - ******* Completed TC_LoginDDT_002 **********
+04/18/2023 22:58:24 - INFO - ************* Login succesful **********
+04/18/2023 22:58:24 - INFO - ************* Login succesful **********
+04/18/2023 22:58:24 - INFO - ************* Login succesful **********
+04/18/2023 22:58:24 - INFO - ************* Login succesful **********
+04/18/2023 22:58:24 - INFO - ************* Login succesful **********
+04/18/2023 22:58:24 - INFO - ******* Starting Search Customer By Name **********
+04/18/2023 22:58:24 - INFO - ******* Starting Search Customer By Name **********
+04/18/2023 22:58:24 - INFO - ******* Starting Search Customer By Name **********
+04/18/2023 22:58:24 - INFO - ******* Starting Search Customer By Name **********
+04/18/2023 22:58:24 - INFO - ******* Starting Search Customer By Name **********
+04/18/2023 22:58:32 - INFO - ************* searching customer by Name **********
+04/18/2023 22:58:32 - INFO - ************* searching customer by Name **********
+04/18/2023 22:58:32 - INFO - ************* searching customer by Name **********
+04/18/2023 22:58:32 - INFO - ************* searching customer by Name **********
+04/18/2023 22:58:32 - INFO - ************* searching customer by Name **********
+04/18/2023 22:58:37 - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+04/18/2023 22:58:37 - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+04/18/2023 22:58:37 - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+04/18/2023 22:58:37 - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+04/18/2023 22:58:37 - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+04/18/2023 22:58:46 - INFO - ************** Verifying Login test ********************
+04/18/2023 22:58:46 - INFO - ************** Verifying Login test ********************
+04/18/2023 22:58:46 - INFO - ************** Verifying Login test ********************
+04/18/2023 22:58:46 - INFO - ************** Verifying Login test ********************
+04/18/2023 22:58:46 - INFO - ************** Verifying Login test ********************
+04/18/2023 22:58:47 - INFO - ************* SearchCustomerByEmail_004 **********
+04/18/2023 22:58:47 - INFO - ************* SearchCustomerByEmail_004 **********
+04/18/2023 22:58:47 - INFO - ************* SearchCustomerByEmail_004 **********
+04/18/2023 22:58:47 - INFO - ************* SearchCustomerByEmail_004 **********
+04/18/2023 22:58:47 - INFO - ************* SearchCustomerByEmail_004 **********
+04/18/2023 22:58:47 - INFO - ************** Test_003_AddCustomer ********************
+04/18/2023 22:58:47 - INFO - ************** Test_003_AddCustomer ********************
+04/18/2023 22:58:47 - INFO - ************** Test_003_AddCustomer ********************
+04/18/2023 22:58:47 - INFO - ************** Test_003_AddCustomer ********************
+04/18/2023 22:58:47 - INFO - ************** Test_003_AddCustomer ********************
+04/18/2023 22:58:57 - INFO - *************** Login successful ***********
+04/18/2023 22:58:57 - INFO - *************** Login successful ***********
+04/18/2023 22:58:57 - INFO - *************** Login successful ***********
+04/18/2023 22:58:57 - INFO - *************** Login successful ***********
+04/18/2023 22:58:57 - INFO - *************** Login successful ***********
+04/18/2023 22:58:57 - INFO - ****** Starting Add Customer Test ****************
+04/18/2023 22:58:57 - INFO - ****** Starting Add Customer Test ****************
+04/18/2023 22:58:57 - INFO - ****** Starting Add Customer Test ****************
+04/18/2023 22:58:57 - INFO - ****** Starting Add Customer Test ****************
+04/18/2023 22:58:57 - INFO - ****** Starting Add Customer Test ****************
+04/18/2023 22:59:00 - INFO - ************** Login test is passed ********************
+04/18/2023 22:59:00 - INFO - ************** Login test is passed ********************
+04/18/2023 22:59:00 - INFO - ************** Login test is passed ********************
+04/18/2023 22:59:00 - INFO - ************** Login test is passed ********************
+04/18/2023 22:59:00 - INFO - ************** Login test is passed ********************
+04/18/2023 22:59:01 - INFO - ************* Login succesful **********
+04/18/2023 22:59:01 - INFO - ************* Login succesful **********
+04/18/2023 22:59:01 - INFO - ************* Login succesful **********
+04/18/2023 22:59:01 - INFO - ************* Login succesful **********
+04/18/2023 22:59:01 - INFO - ************* Login succesful **********
+04/18/2023 22:59:01 - INFO - ******* Starting Search Customer By Email **********
+04/18/2023 22:59:01 - INFO - ******* Starting Search Customer By Email **********
+04/18/2023 22:59:01 - INFO - ******* Starting Search Customer By Email **********
+04/18/2023 22:59:01 - INFO - ******* Starting Search Customer By Email **********
+04/18/2023 22:59:01 - INFO - ******* Starting Search Customer By Email **********
+04/18/2023 22:59:04 - INFO - ************** Providing customer info **********
+04/18/2023 22:59:04 - INFO - ************** Providing customer info **********
+04/18/2023 22:59:04 - INFO - ************** Providing customer info **********
+04/18/2023 22:59:04 - INFO - ************** Providing customer info **********
+04/18/2023 22:59:04 - INFO - ************** Providing customer info **********
+04/18/2023 22:59:06 - INFO - ************* searching customer by emailID **********
+04/18/2023 22:59:06 - INFO - ************* searching customer by emailID **********
+04/18/2023 22:59:06 - INFO - ************* searching customer by emailID **********
+04/18/2023 22:59:06 - INFO - ************* searching customer by emailID **********
+04/18/2023 22:59:06 - INFO - ************* searching customer by emailID **********
+04/18/2023 22:59:07 - INFO - ********* Test_002_DDT_Login ***************
+04/18/2023 22:59:07 - INFO - ********* Test_002_DDT_Login ***************
+04/18/2023 22:59:07 - INFO - ********* Test_002_DDT_Login ***************
+04/18/2023 22:59:07 - INFO - ********* Test_002_DDT_Login ***************
+04/18/2023 22:59:07 - INFO - ********* Test_002_DDT_Login ***************
+04/18/2023 22:59:07 - INFO - ************** Verifying Login DDT test ********************
+04/18/2023 22:59:07 - INFO - ************** Verifying Login DDT test ********************
+04/18/2023 22:59:07 - INFO - ************** Verifying Login DDT test ********************
+04/18/2023 22:59:07 - INFO - ************** Verifying Login DDT test ********************
+04/18/2023 22:59:07 - INFO - ************** Verifying Login DDT test ********************
+04/18/2023 22:59:13 - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+04/18/2023 22:59:13 - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+04/18/2023 22:59:13 - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+04/18/2023 22:59:13 - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+04/18/2023 22:59:13 - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+04/18/2023 22:59:18 - INFO - ************ Saving customer info ************
+04/18/2023 22:59:18 - INFO - ************ Saving customer info ************
+04/18/2023 22:59:18 - INFO - ************ Saving customer info ************
+04/18/2023 22:59:18 - INFO - ************ Saving customer info ************
+04/18/2023 22:59:18 - INFO - ************ Saving customer info ************
+04/18/2023 22:59:18 - INFO - ************ Add customer validation started ************
+04/18/2023 22:59:18 - INFO - ************ Add customer validation started ************
+04/18/2023 22:59:18 - INFO - ************ Add customer validation started ************
+04/18/2023 22:59:18 - INFO - ************ Add customer validation started ************
+04/18/2023 22:59:18 - INFO - ************ Add customer validation started ************
+04/18/2023 22:59:19 - INFO - ********* Add customer Test passed *********
+04/18/2023 22:59:19 - INFO - ********* Add customer Test passed *********
+04/18/2023 22:59:19 - INFO - ********* Add customer Test passed *********
+04/18/2023 22:59:19 - INFO - ********* Add customer Test passed *********
+04/18/2023 22:59:19 - INFO - ********* Add customer Test passed *********
+04/18/2023 22:59:19 - INFO - ************* SearchCustomerByName_005 **********
+04/18/2023 22:59:19 - INFO - ************* SearchCustomerByName_005 **********
+04/18/2023 22:59:19 - INFO - ************* SearchCustomerByName_005 **********
+04/18/2023 22:59:19 - INFO - ************* SearchCustomerByName_005 **********
+04/18/2023 22:59:19 - INFO - ************* SearchCustomerByName_005 **********
+04/18/2023 22:59:19 - INFO - *** Passed ***
+04/18/2023 22:59:19 - INFO - *** Passed ***
+04/18/2023 22:59:19 - INFO - *** Passed ***
+04/18/2023 22:59:19 - INFO - *** Passed ***
+04/18/2023 22:59:19 - INFO - *** Passed ***
+04/18/2023 22:59:20 - INFO - ******** Ending Test_003_AddCustomer Test *********
+04/18/2023 22:59:20 - INFO - ******** Ending Test_003_AddCustomer Test *********
+04/18/2023 22:59:20 - INFO - ******** Ending Test_003_AddCustomer Test *********
+04/18/2023 22:59:20 - INFO - ******** Ending Test_003_AddCustomer Test *********
+04/18/2023 22:59:20 - INFO - ******** Ending Test_003_AddCustomer Test *********
+04/18/2023 22:59:25 - INFO - ************** Test_001_Login ********************
+04/18/2023 22:59:25 - INFO - ************** Test_001_Login ********************
+04/18/2023 22:59:25 - INFO - ************** Test_001_Login ********************
+04/18/2023 22:59:25 - INFO - ************** Test_001_Login ********************
+04/18/2023 22:59:25 - INFO - ************** Test_001_Login ********************
+04/18/2023 22:59:25 - INFO - ************** Verifying Home Page Title ********************
+04/18/2023 22:59:25 - INFO - ************** Verifying Home Page Title ********************
+04/18/2023 22:59:25 - INFO - ************** Verifying Home Page Title ********************
+04/18/2023 22:59:25 - INFO - ************** Verifying Home Page Title ********************
+04/18/2023 22:59:25 - INFO - ************** Verifying Home Page Title ********************
+04/18/2023 22:59:26 - INFO - ************* Login succesful **********
+04/18/2023 22:59:26 - INFO - ************* Login succesful **********
+04/18/2023 22:59:26 - INFO - ************* Login succesful **********
+04/18/2023 22:59:26 - INFO - ************* Login succesful **********
+04/18/2023 22:59:26 - INFO - ************* Login succesful **********
+04/18/2023 22:59:26 - INFO - ******* Starting Search Customer By Name **********
+04/18/2023 22:59:26 - INFO - ******* Starting Search Customer By Name **********
+04/18/2023 22:59:26 - INFO - ******* Starting Search Customer By Name **********
+04/18/2023 22:59:26 - INFO - ******* Starting Search Customer By Name **********
+04/18/2023 22:59:26 - INFO - ******* Starting Search Customer By Name **********
+04/18/2023 22:59:26 - INFO - *** passed ***
+04/18/2023 22:59:26 - INFO - *** passed ***
+04/18/2023 22:59:26 - INFO - *** passed ***
+04/18/2023 22:59:26 - INFO - *** passed ***
+04/18/2023 22:59:26 - INFO - *** passed ***
+04/18/2023 22:59:29 - INFO - ************** Home page title test is passed ********************
+04/18/2023 22:59:29 - INFO - ************** Home page title test is passed ********************
+04/18/2023 22:59:29 - INFO - ************** Home page title test is passed ********************
+04/18/2023 22:59:29 - INFO - ************** Home page title test is passed ********************
+04/18/2023 22:59:29 - INFO - ************** Home page title test is passed ********************
+04/18/2023 22:59:32 - INFO - *** passed ***
+04/18/2023 22:59:32 - INFO - *** passed ***
+04/18/2023 22:59:32 - INFO - *** passed ***
+04/18/2023 22:59:32 - INFO - *** passed ***
+04/18/2023 22:59:32 - INFO - *** passed ***
+04/18/2023 22:59:33 - INFO - ************* searching customer by Name **********
+04/18/2023 22:59:33 - INFO - ************* searching customer by Name **********
+04/18/2023 22:59:33 - INFO - ************* searching customer by Name **********
+04/18/2023 22:59:33 - INFO - ************* searching customer by Name **********
+04/18/2023 22:59:33 - INFO - ************* searching customer by Name **********
+04/18/2023 22:59:38 - INFO - *** passed ***
+04/18/2023 22:59:38 - INFO - *** passed ***
+04/18/2023 22:59:38 - INFO - *** passed ***
+04/18/2023 22:59:38 - INFO - *** passed ***
+04/18/2023 22:59:38 - INFO - *** passed ***
+04/18/2023 22:59:38 - INFO - ******* Login DDT test passed ****
+04/18/2023 22:59:38 - INFO - ******* Login DDT test passed ****
+04/18/2023 22:59:38 - INFO - ******* Login DDT test passed ****
+04/18/2023 22:59:38 - INFO - ******* Login DDT test passed ****
+04/18/2023 22:59:38 - INFO - ******* Login DDT test passed ****
+04/18/2023 22:59:39 - INFO - ******* End of Login DDT Test **********
+04/18/2023 22:59:39 - INFO - ******* End of Login DDT Test **********
+04/18/2023 22:59:39 - INFO - ******* End of Login DDT Test **********
+04/18/2023 22:59:39 - INFO - ******* End of Login DDT Test **********
+04/18/2023 22:59:39 - INFO - ******* End of Login DDT Test **********
+04/18/2023 22:59:39 - INFO - ******* Completed TC_LoginDDT_002 **********
+04/18/2023 22:59:39 - INFO - ******* Completed TC_LoginDDT_002 **********
+04/18/2023 22:59:39 - INFO - ******* Completed TC_LoginDDT_002 **********
+04/18/2023 22:59:39 - INFO - ******* Completed TC_LoginDDT_002 **********
+04/18/2023 22:59:39 - INFO - ******* Completed TC_LoginDDT_002 **********
+04/18/2023 22:59:39 - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+04/18/2023 22:59:39 - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+04/18/2023 22:59:39 - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+04/18/2023 22:59:39 - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+04/18/2023 22:59:39 - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+04/18/2023 22:59:43 - INFO - ************* SearchCustomerByEmail_004 **********
+04/18/2023 22:59:43 - INFO - ************* SearchCustomerByEmail_004 **********
+04/18/2023 22:59:43 - INFO - ************* SearchCustomerByEmail_004 **********
+04/18/2023 22:59:43 - INFO - ************* SearchCustomerByEmail_004 **********
+04/18/2023 22:59:43 - INFO - ************* SearchCustomerByEmail_004 **********
+04/18/2023 22:59:46 - INFO - ************** Verifying Login test ********************
+04/18/2023 22:59:46 - INFO - ************** Verifying Login test ********************
+04/18/2023 22:59:46 - INFO - ************** Verifying Login test ********************
+04/18/2023 22:59:46 - INFO - ************** Verifying Login test ********************
+04/18/2023 22:59:46 - INFO - ************** Verifying Login test ********************
+04/18/2023 22:59:46 - INFO - ************** Test_003_AddCustomer ********************
+04/18/2023 22:59:46 - INFO - ************** Test_003_AddCustomer ********************
+04/18/2023 22:59:46 - INFO - ************** Test_003_AddCustomer ********************
+04/18/2023 22:59:46 - INFO - ************** Test_003_AddCustomer ********************
+04/18/2023 22:59:46 - INFO - ************** Test_003_AddCustomer ********************
+04/18/2023 22:59:51 - INFO - ************* Login succesful **********
+04/18/2023 22:59:51 - INFO - ************* Login succesful **********
+04/18/2023 22:59:51 - INFO - ************* Login succesful **********
+04/18/2023 22:59:51 - INFO - ************* Login succesful **********
+04/18/2023 22:59:51 - INFO - ************* Login succesful **********
+04/18/2023 22:59:51 - INFO - ******* Starting Search Customer By Email **********
+04/18/2023 22:59:51 - INFO - ******* Starting Search Customer By Email **********
+04/18/2023 22:59:51 - INFO - ******* Starting Search Customer By Email **********
+04/18/2023 22:59:51 - INFO - ******* Starting Search Customer By Email **********
+04/18/2023 22:59:51 - INFO - ******* Starting Search Customer By Email **********
+04/18/2023 22:59:57 - INFO - ************* searching customer by emailID **********
+04/18/2023 22:59:57 - INFO - ************* searching customer by emailID **********
+04/18/2023 22:59:57 - INFO - ************* searching customer by emailID **********
+04/18/2023 22:59:57 - INFO - ************* searching customer by emailID **********
+04/18/2023 22:59:57 - INFO - ************* searching customer by emailID **********
+04/18/2023 22:59:58 - INFO - ************** Login test is passed ********************
+04/18/2023 22:59:58 - INFO - ************** Login test is passed ********************
+04/18/2023 22:59:58 - INFO - ************** Login test is passed ********************
+04/18/2023 22:59:58 - INFO - ************** Login test is passed ********************
+04/18/2023 22:59:58 - INFO - ************** Login test is passed ********************
+04/18/2023 22:59:58 - INFO - *************** Login successful ***********
+04/18/2023 22:59:58 - INFO - *************** Login successful ***********
+04/18/2023 22:59:58 - INFO - *************** Login successful ***********
+04/18/2023 22:59:58 - INFO - *************** Login successful ***********
+04/18/2023 22:59:58 - INFO - *************** Login successful ***********
+04/18/2023 22:59:58 - INFO - ****** Starting Add Customer Test ****************
+04/18/2023 22:59:58 - INFO - ****** Starting Add Customer Test ****************
+04/18/2023 22:59:58 - INFO - ****** Starting Add Customer Test ****************
+04/18/2023 22:59:58 - INFO - ****** Starting Add Customer Test ****************
+04/18/2023 22:59:58 - INFO - ****** Starting Add Customer Test ****************
+04/18/2023 23:00:02 - INFO - ********* Test_002_DDT_Login ***************
+04/18/2023 23:00:02 - INFO - ********* Test_002_DDT_Login ***************
+04/18/2023 23:00:02 - INFO - ********* Test_002_DDT_Login ***************
+04/18/2023 23:00:02 - INFO - ********* Test_002_DDT_Login ***************
+04/18/2023 23:00:02 - INFO - ********* Test_002_DDT_Login ***************
+04/18/2023 23:00:02 - INFO - ************** Verifying Login DDT test ********************
+04/18/2023 23:00:02 - INFO - ************** Verifying Login DDT test ********************
+04/18/2023 23:00:02 - INFO - ************** Verifying Login DDT test ********************
+04/18/2023 23:00:02 - INFO - ************** Verifying Login DDT test ********************
+04/18/2023 23:00:02 - INFO - ************** Verifying Login DDT test ********************
+04/18/2023 23:00:03 - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+04/18/2023 23:00:03 - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+04/18/2023 23:00:03 - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+04/18/2023 23:00:03 - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+04/18/2023 23:00:03 - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+04/18/2023 23:00:06 - INFO - ************* SearchCustomerByName_005 **********
+04/18/2023 23:00:06 - INFO - ************* SearchCustomerByName_005 **********
+04/18/2023 23:00:06 - INFO - ************* SearchCustomerByName_005 **********
+04/18/2023 23:00:06 - INFO - ************* SearchCustomerByName_005 **********
+04/18/2023 23:00:06 - INFO - ************* SearchCustomerByName_005 **********
+04/18/2023 23:00:08 - INFO - ************** Providing customer info **********
+04/18/2023 23:00:08 - INFO - ************** Providing customer info **********
+04/18/2023 23:00:08 - INFO - ************** Providing customer info **********
+04/18/2023 23:00:08 - INFO - ************** Providing customer info **********
+04/18/2023 23:00:08 - INFO - ************** Providing customer info **********
+04/18/2023 23:00:16 - INFO - *** Passed ***
+04/18/2023 23:00:16 - INFO - *** Passed ***
+04/18/2023 23:00:16 - INFO - *** Passed ***
+04/18/2023 23:00:16 - INFO - *** Passed ***
+04/18/2023 23:00:16 - INFO - *** Passed ***
+04/18/2023 23:00:19 - INFO - ************* Login succesful **********
+04/18/2023 23:00:19 - INFO - ************* Login succesful **********
+04/18/2023 23:00:19 - INFO - ************* Login succesful **********
+04/18/2023 23:00:19 - INFO - ************* Login succesful **********
+04/18/2023 23:00:19 - INFO - ************* Login succesful **********
+04/18/2023 23:00:19 - INFO - ******* Starting Search Customer By Name **********
+04/18/2023 23:00:19 - INFO - ******* Starting Search Customer By Name **********
+04/18/2023 23:00:19 - INFO - ******* Starting Search Customer By Name **********
+04/18/2023 23:00:19 - INFO - ******* Starting Search Customer By Name **********
+04/18/2023 23:00:19 - INFO - ******* Starting Search Customer By Name **********
+04/18/2023 23:00:22 - INFO - ************ Saving customer info ************
+04/18/2023 23:00:22 - INFO - ************ Saving customer info ************
+04/18/2023 23:00:22 - INFO - ************ Saving customer info ************
+04/18/2023 23:00:22 - INFO - ************ Saving customer info ************
+04/18/2023 23:00:22 - INFO - ************ Saving customer info ************
+04/18/2023 23:00:22 - INFO - ************ Add customer validation started ************
+04/18/2023 23:00:22 - INFO - ************ Add customer validation started ************
+04/18/2023 23:00:22 - INFO - ************ Add customer validation started ************
+04/18/2023 23:00:22 - INFO - ************ Add customer validation started ************
+04/18/2023 23:00:22 - INFO - ************ Add customer validation started ************
+04/18/2023 23:00:22 - INFO - ********* Add customer Test passed *********
+04/18/2023 23:00:22 - INFO - ********* Add customer Test passed *********
+04/18/2023 23:00:22 - INFO - ********* Add customer Test passed *********
+04/18/2023 23:00:22 - INFO - ********* Add customer Test passed *********
+04/18/2023 23:00:22 - INFO - ********* Add customer Test passed *********
+04/18/2023 23:00:22 - INFO - ******** Ending Test_003_AddCustomer Test *********
+04/18/2023 23:00:22 - INFO - ******** Ending Test_003_AddCustomer Test *********
+04/18/2023 23:00:22 - INFO - ******** Ending Test_003_AddCustomer Test *********
+04/18/2023 23:00:22 - INFO - ******** Ending Test_003_AddCustomer Test *********
+04/18/2023 23:00:22 - INFO - ******** Ending Test_003_AddCustomer Test *********
+04/18/2023 23:00:24 - INFO - *** passed ***
+04/18/2023 23:00:24 - INFO - *** passed ***
+04/18/2023 23:00:24 - INFO - *** passed ***
+04/18/2023 23:00:24 - INFO - *** passed ***
+04/18/2023 23:00:24 - INFO - *** passed ***
+04/18/2023 23:00:26 - INFO - ************** Test_001_Login ********************
+04/18/2023 23:00:26 - INFO - ************** Test_001_Login ********************
+04/18/2023 23:00:26 - INFO - ************** Test_001_Login ********************
+04/18/2023 23:00:26 - INFO - ************** Test_001_Login ********************
+04/18/2023 23:00:26 - INFO - ************** Test_001_Login ********************
+04/18/2023 23:00:26 - INFO - ************** Verifying Home Page Title ********************
+04/18/2023 23:00:26 - INFO - ************** Verifying Home Page Title ********************
+04/18/2023 23:00:26 - INFO - ************** Verifying Home Page Title ********************
+04/18/2023 23:00:26 - INFO - ************** Verifying Home Page Title ********************
+04/18/2023 23:00:26 - INFO - ************** Verifying Home Page Title ********************
+04/18/2023 23:00:29 - INFO - ************* searching customer by Name **********
+04/18/2023 23:00:29 - INFO - ************* searching customer by Name **********
+04/18/2023 23:00:29 - INFO - ************* searching customer by Name **********
+04/18/2023 23:00:29 - INFO - ************* searching customer by Name **********
+04/18/2023 23:00:29 - INFO - ************* searching customer by Name **********
+04/18/2023 23:00:31 - INFO - *** passed ***
+04/18/2023 23:00:31 - INFO - *** passed ***
+04/18/2023 23:00:31 - INFO - *** passed ***
+04/18/2023 23:00:31 - INFO - *** passed ***
+04/18/2023 23:00:31 - INFO - *** passed ***
+04/18/2023 23:00:32 - INFO - ************** Home page title test is passed ********************
+04/18/2023 23:00:32 - INFO - ************** Home page title test is passed ********************
+04/18/2023 23:00:32 - INFO - ************** Home page title test is passed ********************
+04/18/2023 23:00:32 - INFO - ************** Home page title test is passed ********************
+04/18/2023 23:00:32 - INFO - ************** Home page title test is passed ********************
+04/18/2023 23:00:34 - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+04/18/2023 23:00:34 - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+04/18/2023 23:00:34 - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+04/18/2023 23:00:34 - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+04/18/2023 23:00:34 - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+04/18/2023 23:00:37 - INFO - *** passed ***
+04/18/2023 23:00:37 - INFO - *** passed ***
+04/18/2023 23:00:37 - INFO - *** passed ***
+04/18/2023 23:00:37 - INFO - *** passed ***
+04/18/2023 23:00:37 - INFO - *** passed ***
+04/18/2023 23:00:37 - INFO - ******* Login DDT test passed ****
+04/18/2023 23:00:37 - INFO - ******* Login DDT test passed ****
+04/18/2023 23:00:37 - INFO - ******* Login DDT test passed ****
+04/18/2023 23:00:37 - INFO - ******* Login DDT test passed ****
+04/18/2023 23:00:37 - INFO - ******* Login DDT test passed ****
+04/18/2023 23:00:37 - INFO - ******* End of Login DDT Test **********
+04/18/2023 23:00:37 - INFO - ******* End of Login DDT Test **********
+04/18/2023 23:00:37 - INFO - ******* End of Login DDT Test **********
+04/18/2023 23:00:37 - INFO - ******* End of Login DDT Test **********
+04/18/2023 23:00:37 - INFO - ******* End of Login DDT Test **********
+04/18/2023 23:00:37 - INFO - ******* Completed TC_LoginDDT_002 **********
+04/18/2023 23:00:37 - INFO - ******* Completed TC_LoginDDT_002 **********
+04/18/2023 23:00:37 - INFO - ******* Completed TC_LoginDDT_002 **********
+04/18/2023 23:00:37 - INFO - ******* Completed TC_LoginDDT_002 **********
+04/18/2023 23:00:37 - INFO - ******* Completed TC_LoginDDT_002 **********

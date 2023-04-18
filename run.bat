@@ -1,6 +1,6 @@
-pytest -s -v --capture=sys --html=Reports/report1.html --self-contained-html testCases/ --browser chrome
-pytest -s -v --capture=sys --html=Reports/report2.html --self-contained-html testCases/ --browser firefox
-pytest -s -v --capture=sys --html=Reports/report3.html --self-contained-html testCases/ --browser edge
+pytest -s -v -n=3 --capture=sys --html=Reports/report1.html --self-contained-html testCases/ --browser chrome
+pytest -s -v -n=3 --capture=sys --html=Reports/report2.html --self-contained-html testCases/ --browser firefox
+pytest -s -v -n=3 --capture=sys --html=Reports/report3.html --self-contained-html testCases/ --browser edge
 
 @REM pytest -s -v -m "sanity" --capture=sys --html=Reports/report1.html --self-contained-html testCases/ --browser chrome
 @REM pytest -s -v -m "sanity" --capture=sys --html=Reports/report2.html --self-contained-html testCases/ --browser firefox
